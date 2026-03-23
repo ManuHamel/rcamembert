@@ -1,6 +1,6 @@
 rcamembert
 
-rcamembertR is an R package that provides a CamemBERT-like implementation in R using torch for Named Entity Recognition (NER), including:
+rcamembert is an R package that provides a CamemBERT-like implementation in R using torch for Named Entity Recognition (NER), including:
 
 a SentencePiece-based tokenizer
 a Transformer / CamemBERT-style encoder
